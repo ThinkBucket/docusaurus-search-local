@@ -1,6 +1,6 @@
 {
   "name": "@thinkbucket/docusaurus-search-local",
-  "version": "0.19.1",
+  "version": "0.19.2-0",
   "description": "An offline/local search plugin for Docusaurus v2.",
   "repository": "https://github.com/thinkbucket/docusaurus-search-local",
   "homepage": "https://github.com/thinkbucket/docusaurus-search-local",
