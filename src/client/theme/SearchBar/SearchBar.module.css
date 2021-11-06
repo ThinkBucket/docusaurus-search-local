@@ -1,6 +1,6 @@
 .searchBar .dropdownMenu {
-  left: auto !important;
-  right: 0 !important;
+  left: auto;
+  right: 0;
 
   background: var(--search-local-modal-background, #f5f6f7);
   border-radius: 6px;
